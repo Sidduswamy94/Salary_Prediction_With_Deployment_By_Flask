@@ -2,7 +2,7 @@
 This is a example project to elaborate how Machine Learn Models are deployed on production using Flask API.
 
 ## Prerequisites
-You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
+We must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
 
 ## Project Structure
 This project has four major parts :
@@ -15,13 +15,13 @@ This project has four major parts :
 ## Running the project
 1. Ensure that you are in the project home directory. Create the machine learning model by running below command -
 
-   '''python model.py'''
+   python model.py
 
    This would create a serialized version of our model into a file model.pkl
 
 2. Run app.py using below command to start Flask API
 
-   '''python app.py'''
+   python app.py
    
 By default, flask will run on port 5000.
 
@@ -35,4 +35,4 @@ If everything goes well, we should be able to see the predcited salary vaule on 
 
 4. We can also send direct POST requests to FLask API using Python's inbuilt request module Run the beow command to send the request with some pre-popuated values -
 
-   '''python request.py'''
+   python request.py
