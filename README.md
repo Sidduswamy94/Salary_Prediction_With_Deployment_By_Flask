@@ -31,6 +31,6 @@ We should be able to view the homepage as below : https://github.com/Sidduswamy9
 
 Enter valid numerical values in all 3 input boxes and hit Predict.
 
-If everything goes well, you should be able to see the predcited salary vaule on the HTML page! 
+If everything goes well, you should be able to see the predcited salary vaule on the HTML page! https://github.com/Sidduswamy94/Salary_Prediction_With_Deployment_By_Flask/issues/2#issue-1895952418
 
 4. We can also send direct POST requests to FLask API using Python's inbuilt request module Run the beow command to send the request with some pre-popuated values -
