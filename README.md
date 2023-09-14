@@ -27,10 +27,10 @@ By default, flask will run on port 5000.
 
 4. Navigate to URL http://localhost:5000
 
-We should be able to view the homepage as below : https://github.com/Sidduswamy94/Salary_Prediction_With_Deployment_By_Flask/issues/1#issue-1895944697
+We should be able to view the homepage on the HTML page! https://github.com/Sidduswamy94/Salary_Prediction_With_Deployment_By_Flask/issues/1#issue-1895944697
 
 Enter valid numerical values in all 3 input boxes and hit Predict.
 
-If everything goes well, you should be able to see the predcited salary vaule on the HTML page! https://github.com/Sidduswamy94/Salary_Prediction_With_Deployment_By_Flask/issues/2#issue-1895952418
+If everything goes well, we should be able to see the predcited salary vaule on the HTML page! https://github.com/Sidduswamy94/Salary_Prediction_With_Deployment_By_Flask/issues/2#issue-1895952418
 
 4. We can also send direct POST requests to FLask API using Python's inbuilt request module Run the beow command to send the request with some pre-popuated values -
