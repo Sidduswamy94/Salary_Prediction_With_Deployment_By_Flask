@@ -25,7 +25,7 @@ This project has four major parts :
    
 By default, flask will run on port 5000.
 
-4. Navigate to URL http://localhost:5000
+3. Navigate to URL http://localhost:5000
 
 We should be able to view the homepage on the HTML page! https://github.com/Sidduswamy94/Salary_Prediction_With_Deployment_By_Flask/issues/1#issue-1895944697
 
